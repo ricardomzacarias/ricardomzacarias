@@ -187,7 +187,7 @@
 <div style="display: flex;">
   <div style="width: 20%; margin-right: 20px;">
     <img width="20">
-    <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" style="width: 100%; height: auto;">
+    <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" height="40">
   </div>
   <div style="width: 80%;">
     <h3>Prácticas Departamento de Big Data</h3>
