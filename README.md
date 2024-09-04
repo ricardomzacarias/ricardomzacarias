@@ -183,37 +183,50 @@
 
 <h1 align="center">Real experience or projects</h1>
 <p>Yes, I have many Experience in cybersecurity space and big data: </p>
+  <!-- <table> -->
+  <!--   <img width="20"> -->
+  <!--   <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" height="40"> -->
+  <!--   <h3>Prácticas Departamento de Big Data</h3> -->
+  <!--   <ul> -->
+  <!--     <li><strong>Inetum:</strong> Jornada completa</li> -->
+  <!--     <li>feb. 2024 - ago. 2024 · 7 meses</li> -->
+  <!--     <li>Madrid, Comunidad de Madrid, España · En remoto</li> -->
+  <!--     <li>Lidere el desarrollo Front-End para una aplicación web.</li> -->
+  <!--     <li><strong>Aptitudes:</strong> Python · React.js · Azure DevOps Server</li> -->
+  <!--   </ul> -->
+  <!-- </table> -->
+<table style="border-collapse: collapse; border: none;">
+  <tr style="border: none;">
+    <td style="border: none; padding: 0;">
+        <img width="20">
+      <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" width="100%" style="display: block; max-width: 150px;">
+    </td>
+    <td style="border: none; padding-left: 20px; vertical-align: top;">
+      <h3>Prácticas Departamento de Big Data</h3>
+      <ul>
+        <li><strong>Inetum:</strong> Jornada completa</li>
+        <li>feb. 2024 - ago. 2024 · 7 meses</li>
+        <li>Madrid, Comunidad de Madrid, España · En remoto</li>
+        <li>Lidere el desarrollo Front-End para una aplicación web.</li>
+        <li><strong>Aptitudes:</strong> Python · React.js · Azure DevOps Server</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
-<div style="display: flex;">
-  <div style="width: 20%; margin-right: 20px;">
-    <img width="20">
-    <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" height="40">
-  </div>
-  <div style="width: 80%;">
-    <h3>Prácticas Departamento de Big Data</h3>
-    <ul>
-      <li><strong>Inetum:</strong> Jornada completa</li>
-      <li>feb. 2024 - ago. 2024 · 7 meses</li>
-      <li>Madrid, Comunidad de Madrid, España · En remoto</li>
-      <li>Lidere el desarrollo Front-End para una aplicación web.</li>
-      <li><strong>Aptitudes:</strong> Python · React.js · Azure DevOps Server</li>
-    </ul>
-  </div>
-</div>
-
-<div style="display: flex;">
-  <div style="width: 20%; margin-right: 20px;">
-    <img width="20">
-    <img src="https://grupounitel.es/img/unitel.png" alt="Photo" style="width: 100%; height: auto;">
-  </div>
-  <div style="width: 80%;">
-    <h3>Prácticas Técnico en Ciberseguridad</h3>
-    <ul>
-      <li><strong>Unitel- Sistemas de Telecomunicaciones</strong> · Jornada completa</li>
-      <li>may. 2023 - oct. 2023 · 6 meses</li>
-      <li>Talavera de la Reina, Castilla-La Mancha, España · Presencial.
-        <li>Puesta en marcha de SIEM (Elastic) en la organización · Responsable del mantenimiento del Firewall Palo Alto · Lanzamiento de campañas de Ingeniería Social · Concienciación en ciberseguridad post campaña.</li>
-      <li><strong>Aptitudes:</strong> Python · Ingeniería social · Linux</li>
-    </ul>
-  </div>
-</div>
+<!-- <div style="display: flex;"> -->
+<!--   <div style="width: 20%; margin-right: 20px;"> -->
+<!--     <img width="20"> -->
+<!--     <img src="https://grupounitel.es/img/unitel.png" alt="Photo" style="width: 100%; height: auto;"> -->
+<!--   </div> -->
+<!--   <div style="width: 80%;"> -->
+<!--     <h3>Prácticas Técnico en Ciberseguridad</h3> -->
+<!--     <ul> -->
+<!--       <li><strong>Unitel- Sistemas de Telecomunicaciones</strong> · Jornada completa</li> -->
+<!--       <li>may. 2023 - oct. 2023 · 6 meses</li> -->
+<!--       <li>Talavera de la Reina, Castilla-La Mancha, España · Presencial. -->
+<!--         <li>Puesta en marcha de SIEM (Elastic) en la organización · Responsable del mantenimiento del Firewall Palo Alto · Lanzamiento de campañas de Ingeniería Social · Concienciación en ciberseguridad post campaña.</li> -->
+<!--       <li><strong>Aptitudes:</strong> Python · Ingeniería social · Linux</li> -->
+<!--     </ul> -->
+<!--   </div> -->
+<!-- </div> -->
