@@ -1,6 +1,17 @@
 <h1 align="center">What's up everybody!! 😃</h1>
 
-###
+<p align="center">
+  <a href="https://www.codewars.com/users/rlmz93" target="_blank">
+    <img alt="codewars: rlmz93" src="https://www.codewars.com/users/rlmz93/badges/micro" />
+  </a>
+  <a href="https://www.linkedin.com/in/ricardomarinzacarias/" target="_blank">
+    <img alt="linkedin: ricardo" src="https://krueger.ca/wp-content/uploads/2016/02/linkedin-logo.png" width="20"/>
+  </a>
+  <a href="https://github.com/ricardomzacarias?tab=repositories" target="_blank"><img alt="github: ricardo marin" width="20" src="https://github.githubassets.com/assets/GitHub-Mark-ea2971cee799.png"> 
+  </a>
+  <a href="https://www.getmanfred.com/perfil/09b39ffb-2721-49a3-9895-2898da19efb5" target="_blank"><img alt="manfred: ricardo marin" width="20" src="https://avatars.githubusercontent.com/u/40492612?s=280&v=4">
+  </a>
+</p>
 
 <p align="left">My name is Ricardo Marin!<br><br>I'm from Venezuela 🇻🇪, but I'm currently based in the beautiful country Spain 🇪🇸. My really degree is in engineering civil 😁 but at the moment I have an HND Level 5 in English 🇬🇧 education for MSMK University (Madrid) and my actually degree is in computing (cyber security). <br><br>I was totally new on I.T space, but I'm really focused on learning in cybersecurity, programming and network computer. I studied for two years, and now I create this space to show my skills in these areas and in other way show productivity tools to improve your work in any areas.</p>
 
@@ -156,7 +167,7 @@
   </tr>
 </table>
 <h2 align="center">Publications</h1>
-  <p>Of course, I have 3 publications in cybersecurity. <a href="https://msmk.university/author/ricardo_leonel/" target="_blank">This is my first contribution in MSMK Magazine</a> in it case, you have read about my publications, but if you prefer I go put some links to read each publication.</p>
+  <p>Of course, I have 3 publications in cybersecurity space. <a href="https://msmk.university/author/ricardo_leonel/" target="_blank">This is my first contribution in MSMK Magazine</a> in it case, you have read about my publications, but if you prefer I go put some links to read each publication.</p>
   <ul>
     <li>
       <a href="https://msmk.university/tecnologias-digitales-comercio-y-ciberseguridad/" target="_blank">Tecnologías digitales, comercio y ciberseguridad en la era digital</a>
@@ -171,6 +182,38 @@
 </ul>
 
 <h1 align="center">Real experience or projects</h1>
-<p> Yes I have many Experience in cybersecurity space and big data (inetum) </p>
+<p>Yes, I have many Experience in cybersecurity space and big data: </p>
 
+<div style="display: flex;">
+  <div style="width: 20%; margin-right: 20px;">
+    <img width="20">
+    <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 80%;">
+    <h3>Prácticas Departamento de Big Data</h3>
+    <ul>
+      <li><strong>Inetum:</strong> Jornada completa</li>
+      <li>feb. 2024 - ago. 2024 · 7 meses</li>
+      <li>Madrid, Comunidad de Madrid, España · En remoto</li>
+      <li>Lidere el desarrollo Front-End para una aplicación web.</li>
+      <li><strong>Aptitudes:</strong> Python · React.js · Azure DevOps Server</li>
+    </ul>
+  </div>
+</div>
 
+<div style="display: flex;">
+  <div style="width: 20%; margin-right: 20px;">
+    <img width="20">
+    <img src="https://grupounitel.es/img/unitel.png" alt="Photo" style="width: 100%; height: auto;">
+  </div>
+  <div style="width: 80%;">
+    <h3>Prácticas Técnico en Ciberseguridad</h3>
+    <ul>
+      <li><strong>Unitel- Sistemas de Telecomunicaciones</strong> · Jornada completa</li>
+      <li>may. 2023 - oct. 2023 · 6 meses</li>
+      <li>Talavera de la Reina, Castilla-La Mancha, España · Presencial.
+        <li>Puesta en marcha de SIEM (Elastic) en la organización · Responsable del mantenimiento del Firewall Palo Alto · Lanzamiento de campañas de Ingeniería Social · Concienciación en ciberseguridad post campaña.</li>
+      <li><strong>Aptitudes:</strong> Python · Ingeniería social · Linux</li>
+    </ul>
+  </div>
+</div>
