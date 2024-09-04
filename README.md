@@ -199,7 +199,7 @@
   <tr style="border: none;">
     <td style="border: none; padding: 0;">
         <img width="20">
-      <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" width="100%" style="display: block; max-width: 150px;">
+      <img src="https://www.upv.es/upl/U0904875.jfi" alt="Photo" height="20" >
     </td>
     <td style="border: none; padding-left: 20px; vertical-align: top;">
       <h3>Prácticas Departamento de Big Data</h3>
