@@ -52,6 +52,8 @@
   <img width="12" />
   <img src="https://dashboard.snapcraft.io/site_media/appmedia/2018/08/icon_tTT6ZuR.png" height="40" alt="qemu logo" />
   <img width="12" />
+  <img src="https://globalt4e.com/wp-content/uploads/2021/01/ISO-27001.jpg" height="40" alt="logo" />
+  <img width="12" />
 </div>
 
 ###
@@ -66,4 +68,109 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
   <img width="12" />
 </div>
+
+###
+
+<h2 align="left">More about my education in cybersecurity " 🇪🇸 - 🇬🇧 "</h1>
+<p> I studied a Professional degree in cybersecurity, a HND in computing (cyber security), I attend some classes  </p>
+<table align="center">
+  <tr>
+    <th> Unit </th>
+    <th> Subject </th>
+    <th> Results </th>
+  </tr>
+  <tr>
+    <th>Unit 1</th>
+    <th>Programming</th>
+    <th>DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 2</th>
+    <th>Networking</th>
+    <th> DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 3</th>
+    <th>Professional Practice</th>
+    <th> MERIT</th>
+  </tr>
+  <tr>
+    <th>Unit 4</th>
+    <th>Database Design & Development</th>
+    <th> DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 5</th>
+    <th>Security</th>
+    <th> DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 6</th>
+    <th>Managing a Successful Computing Project</th>
+    <th> DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 10</th>
+      <th> Cybersecurity</th>
+    <th> MERIT</th>
+  </tr>
+  <tr>
+    <th>Unit 15</th>
+      <th>Fundamentals of Artificial Intelligence & Intelligent Systems</th>
+    <th>MERIT</th>
+  </tr>
+  <tr>
+  <th>Unit 16</th>
+  <th>Computing Research Project</th>
+  <th>DISTINCTION</th>
+</tr>
+  <tr>
+    <th>Unit 17</th>
+    <th>Business Process Support</th>
+    <th>MERIT</th>
+  </tr>
+  <tr>
+    <th>Unit 26</th>
+    <th>Big Data Analysis & Visualisation</th>
+    <th>MERIT</th>
+  </tr>
+  <tr>
+    <th>Unit 29</th>
+    <th>Network Security</th>
+    <th>DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 30</th>
+    <th>Applied Cryptography in the Cloud</th>
+    <th>DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 31</th>
+    <th>Forensics</th>
+    <th>DISTINCTION</th>
+  </tr>
+  <tr>
+    <th>Unit 32</th>
+    <th>Information Security Management</th>
+    <th>DISTINCTION</th>
+  </tr>
+</table>
+<h2 align="center">Publications</h1>
+  <p>Of course, I have 3 publications in cybersecurity. <a href="https://msmk.university/author/ricardo_leonel/" target="_blank">This is my first contribution in MSMK Magazine</a> in it case, you have read about my publications, but if you prefer I go put some links to read each publication.</p>
+  <ul>
+    <li>
+      <a href="https://msmk.university/tecnologias-digitales-comercio-y-ciberseguridad/" target="_blank">Tecnologías digitales, comercio y ciberseguridad en la era digital</a>
+    </li>
+    <li>
+      <a href="https://msmk.university/ids-e-ips-herramientas-necesarias-contra-el-advanced-persistent-threat/" target="_blank">IDS e IPS, Herramientas necesarias contra el Advanced Persistent Threat</a>
+    </li>
+    <li>
+      <a href="https://msmk.university/ciberseguridad-en-tiempo-de-bots/" target="_blank">Ciberseguridad en tiempo de bots</a>
+    </li>
+
+</ul>
+
+<h1 align="center">Real experience or projects</h1>
+<p> Yes I have many Experience in cybersecurity space and big data (inetum) </p>
+
 
